@@ -1,3 +1,3 @@
-# PythonApplication1
-bibliographic information data management system' in Python.
-This project meant to interact with users by inputting a number form a selection of numbered choice. In which they can append, manipulate and view the dataset.
+# Bibliographic Information Data Management
+It is a data management system using Python programming language.
+This project meant to interact with users by inputting a number form a list of choices. In which they can manipulate (append, view) with the dataset.
